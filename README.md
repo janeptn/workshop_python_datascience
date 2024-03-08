@@ -18,4 +18,5 @@ Com sua versatilidade, robustez e comunidade vibrante, Python é uma linguagem p
 Para saber mais:
 
 Site oficial da linguagem Python: https://www.python.org/
+
 Documentação da linguagem Python: https://docs.python.org/3/
