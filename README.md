@@ -21,10 +21,10 @@ Site oficial da linguagem Python: https://www.python.org/
 
 Documentação da linguagem Python: https://docs.python.org/3/
 
-NOTEBOOKS WORKSHP
+###NOTEBOOKS WORKSHOP
 
 1 - Conhecendo a Linguagem Python - Notebook: https://colab.research.google.com/drive/1ROt3i_cwR_zEkoaJkF4YG5_hU0AYmR_k?usp=sharing
 
 2 - Conhecendo as bibliotecas para Data Science NumPy e Pandas - https://colab.research.google.com/drive/17gCsRpW-5dQh9eVMZqD38Kwe_WaYn7uD?usp=sharing
 
-3 - Treinando um modelo de Machine Learning - Classificação -
+3 - Treinando um modelo de Machine Learning - Classificação - https://colab.research.google.com/drive/1MhKintCOb56oFkx6QKg9LTdANmY7VyB0?usp=sharing
