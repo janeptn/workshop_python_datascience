@@ -25,6 +25,6 @@ NOTEBOOKS WORKSHP
 
 1 - Conhecendo a Linguagem Python - Notebook: https://colab.research.google.com/drive/1ROt3i_cwR_zEkoaJkF4YG5_hU0AYmR_k?usp=sharing
 
-2 - Conhecendo as bibliotecas para Data Science NumPy e Pandas -
+2 - Conhecendo as bibliotecas para Data Science NumPy e Pandas - https://colab.research.google.com/drive/17gCsRpW-5dQh9eVMZqD38Kwe_WaYn7uD?usp=sharing
 
 3 - Treinando um modelo de Machine Learning - Classificação -
