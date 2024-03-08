@@ -1,5 +1,5 @@
-# Workshop Python Ddatascience
-Workshop Python para Data Science
+# Workshop Python Data Science
+
 
 Criada em 1991 por Guido van Rossum, a linguagem Python rapidamente conquistou o mundo da programação. Sua sintaxe clara e intuitiva, inspirada na linguagem ABC, a tornou acessível tanto para iniciantes quanto para programadores experientes.
 
