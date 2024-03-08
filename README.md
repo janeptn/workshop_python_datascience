@@ -21,7 +21,7 @@ Site oficial da linguagem Python: https://www.python.org/
 
 Documentação da linguagem Python: https://docs.python.org/3/
 
-## NOTEBOOKS WORKSHOP
+## Notebooks Workshop
 
 1 - Conhecendo a Linguagem Python - Notebook: https://colab.research.google.com/drive/1ROt3i_cwR_zEkoaJkF4YG5_hU0AYmR_k?usp=sharing
 
