@@ -15,7 +15,7 @@ Python pode ser utilizada de diversas maneiras. A forma mais comum é através d
 
 Com sua versatilidade, robustez e comunidade vibrante, Python é uma linguagem poderosa e essencial para o mundo da programação.
 
-Para saber mais:
+### Para saber mais:
 
 Site oficial da linguagem Python: https://www.python.org/
 
