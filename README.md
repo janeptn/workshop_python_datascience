@@ -20,3 +20,11 @@ Para saber mais:
 Site oficial da linguagem Python: https://www.python.org/
 
 Documentação da linguagem Python: https://docs.python.org/3/
+
+NOTEBOOKS WORKSHP
+
+1 - Conhecendo a Linguagem Python - Notebook: https://colab.research.google.com/drive/1ROt3i_cwR_zEkoaJkF4YG5_hU0AYmR_k?usp=sharing
+
+2 - Conhecendo as bibliotecas para Data Science NumPy e Pandas -
+
+3 - Treinando um modelo de Machine Learning - Classificação -
